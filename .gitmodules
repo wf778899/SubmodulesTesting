@@ -1,0 +1,6 @@
+[submodule "Submodule-Herzeleid"]
+	path = Submodule-Herzeleid
+	url = git@github.com:wf778899/Submodule-Herzeleid.git
+[submodule "Submodule-Sehnsucht"]
+	path = Submodule-Sehnsucht
+	url = git@github.com:wf778899/Submodule-Sehnsucht.git
